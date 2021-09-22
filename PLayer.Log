@@ -1,0 +1,3168 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
+    Vendor:   
+    VRAM:     1977 MB
+    Driver:   30.0.14.7196
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.074 seconds
+<RI> Initializing input.
+
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 0.638900 ms
+Command line arguments: -savedatafolder=C:\Users\lswis\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+RimWorld 1.3.3117 rev669
+Save data folder overridden to C:\Users\lswis\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016889A62010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168898A8CE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688991B020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016889BECE40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688994A640.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AC30080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AC4B890.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016860ECE6D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016860ED3EE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016860ED80F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168899EB070.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AC5E2A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016889BF4070.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168898FB170.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016889BFAC80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AC71CD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AC78CF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168898AA0F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AC7A900.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AC7CB10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AC9A020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AC9D430.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168898F5140.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688C80C040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168897F10B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016862DCD010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016862DD4030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688ADC6D10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168899CF8B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AE3C620.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016862B74A70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AE49640.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AE67650.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AE89670.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AE8F0A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AE928B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AE0CA30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AEA32E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AEB0EF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AEB4510.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AEB5B20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AED5F50.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AEDF560.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AF9F010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AFA1C20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AFDA240.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AFFC470.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B00E680.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B020AA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B0230B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B0DBAD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B0E52E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B0E9F00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B10CD30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B10E940.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688AF76000.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B131D80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B1FE7A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B2017B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016862B78A80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B2333F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B240410.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B249420.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168898A50B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B24D230.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B26D860.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B27E280.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B280E90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B2880A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B2A04C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B36CF00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B3C7110.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B3E2B30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016862B7CA90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B3E4F40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B3E9560.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B3ED780.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B3EF990.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B3F15A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B4AD9D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B4C06B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016862B88AC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B5D9230.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B6A7E50.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B6DB860.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B6E4870.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B7A50C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B8570E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B909700.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688B9E3B40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BA0E950.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BAC3780.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BACDBA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BAD0DB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BADC7D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BB97BF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168897F8120.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BB9FE10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BBA2220.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BBB0040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BBB3250.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BBC4270.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CA20080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CA5EC90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688BBF78A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016862B8CAD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CA750A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CA766B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CA7DCC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CA814D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CA87EF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CA8D100.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CAA4920.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CAB1940.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CABA750.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CB84F70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CC555A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CCDE010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CDF91B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CE099C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CED3DF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688CFA4C30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D1610B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D1736D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D17AEE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D18F700.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D198110.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D1A0F20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D1AA340.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D1AD950.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D1EF570.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D1F7B80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D361230.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D369450.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D371C80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D373490.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D3788A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D3A4CC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D3AD8D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D3B42E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D3CF010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D2650B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D3D8020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D3DD030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D3E4040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D3EA050.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D3FD870.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D402280.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D406A90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D40A2A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4402D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D477300.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D483310.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D497540.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D49E550.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4B1570.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4B7580.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4C55A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4C87B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4CD7C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168898A64C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4D23D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4D5BF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168898AC910.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4D7400.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4DCC10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4E1220.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4E3C30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4E6E50.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168899C5870.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D27D170.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4E9A60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4EC670.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4EE480.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4F3E90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D4F50A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D5C08C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D6826E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D68A4F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D6A3510.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D6A8120.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D6B0530.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D6CFF40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D6D2D50.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D6D4760.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D6D6370.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D7B7390.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D7C1BC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D8A5A00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D8B0C10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D8C0020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D9F0080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DA5E4A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DB358D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DC2F110.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016862BA4B30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168899CD0A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D9E2020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DC37720.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DD60B40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DD64F60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DD6C770.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D9E7630.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DD7B590.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D9E8840.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE519D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE5B7F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE63600.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE67210.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE6C420.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE73630.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE75A40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE77450.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE7BE70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE7EA80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE80E90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DE984A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DECB0C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DED72F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DEF1100.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DF14520.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168898AF130.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DF1FB30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DF2E560.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DF3AD80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DF44790.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168898B0540.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D9D9080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DF5EBB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DF6FFC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168899D48D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016862B90AE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688D9DB090.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DF937F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DF98A00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688DF99C10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E018010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E038A20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E0FC250.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E112C70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E1E2E90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E1E9AA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E21ACB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E2E7D10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E2E9F20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E2F1730.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E2F9150.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000168899C8080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E2FF560.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E300F70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E319B90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E3207A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E344FD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E346BE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E34B9F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E353400.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E357610.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E360C20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E364E40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E438D90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E4423A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688E4DF040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688EA88190.dll
+[9/21/2021 2:25:54 AM] [BetterLoading] Verifying all mods loaded properly...
+[BetterLoading] Injecting into main UI.
+[BetterLoading] Injected into main UI.
+[HugsLib] version 9.0.0
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001688F35CA70.dll
+[HugsLib] early-initializing AllowTool
+[VanillaAchievementsExpanded] version 1.3.7862
+dubwise.dubsbadhygiene 3.0.2097
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+:: Outpost 21 Toolbox - Version 2.0.5 Initialised ::
+DependencyChecker!
+Rimefeller 1.2.1130
+[Interaction Bubbles v1.8] Initialized
+Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Patched MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Trying to patch JobGiver_SocialFighting.TryGiveJob
+Ugh You Got Me: Patched JobGiver_SocialFighting.TryGiveJob.
+Loaded What's That Mod.
+[BetterLoading] Finished stage Initializing Mods at 2:25:58 AM.
+[BetterLoading] HugsLib detected, adding HugsLib support.
+[BetterLoading:HugsLib Compat] Resolved required HugsLib types as follows: Controller: HugsLib.HugsLibController / Mod Identifier (Property): ModIdentifier
+[BetterLoading:HugsLib Compat] Successfully blind-patched HugsLib.
+[BetterLoading] Starting stage Reading Mod Content Files.
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016890C7E030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016890CC0BC0.dll
+ROCKETMAN: config path C:\Users\lswis\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\rocketeer.0102.txt
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016890C96A70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000016890CCCBE0.dll
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Proton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Soyuz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+<color=orange>ROCKETMAN:</color> Version 0.6.3.2196
+SOYUZ: Created _transformationCache
+[BetterLoading] [Enhanced XML Load] Loaded 4349 loadable assets.
+[BetterLoading] Finished stage Reading Mod Content Files at 2:26:10 AM.
+[BetterLoading] Starting stage Injecting Mod XML.
+[BetterLoading] Finished stage Injecting Mod XML at 2:26:11 AM.
+[BetterLoading] Starting stage Applying Patches.
+Xenohumans - Anthromorphs :: Loading Avianmorph
+Xenohumans - Anthromorphs :: Loading Bovinemorph
+Xenohumans - Anthromorphs :: Loading Caninemorph
+Xenohumans - Anthromorphs :: Loading Cervinemorph
+Xenohumans - Anthromorphs :: Loading Dragomorph
+Xenohumans - Anthromorphs :: Loading Felinemorph
+Xenohumans - Anthromorphs :: Loading Gnollmorph
+Xenohumans - Anthromorphs :: Loading Lagomorph
+Xenohumans - Anthromorphs :: Loading Vulpinemorph
+[O21] Forgotten Realms :: Loading Chitine
+[O21] Forgotten Realms :: Loading DarkElves
+[O21] Forgotten Realms :: Loading Dwarves
+[O21] Forgotten Realms :: Loading Firbolg
+[O21] Forgotten Realms :: Loading Gith
+[O21] Forgotten Realms :: Loading Goblins
+[O21] Forgotten Realms :: Loading Halflings
+[O21] Forgotten Realms :: Loading HalfOrcs
+[O21] Forgotten Realms :: Loading Hobgoblins
+[O21] Forgotten Realms :: Loading Illithids
+[O21] Forgotten Realms :: Loading Killoren
+[O21] Forgotten Realms :: Loading Kobolds
+[O21] Forgotten Realms :: Loading MoonElves
+[O21] Forgotten Realms :: Loading Orcs
+[O21] Forgotten Realms :: Loading SunElves
+[O21] Forgotten Realms :: Loading Tabaxi
+[O21] Forgotten Realms :: Loading Tieflings
+[O21] Forgotten Realms :: Loading Warforged
+[O21] Forgotten Realms :: Loading WoodElves
+[BetterLoading] Finished stage Applying Patches at 2:26:25 AM.
+[BetterLoading] Starting stage Registering Defs.
+[BetterLoading] Finished stage Registering Defs at 2:26:25 AM.
+[BetterLoading] Starting stage Constructing Defs.
+Parsed 8.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.01 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.01 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Constructing Defs at 2:26:40 AM.
+[BetterLoading] Starting stage Reloading Def Databases.
+[BetterLoading] Finished stage Reloading Def Databases at 2:26:47 AM.
+[BetterLoading] Tips should now be available. Showing...
+[BetterLoading] Starting stage Running Post Content Load Callbacks.
+[BetterLoading] Processing 21856 post-load tasks.
+d3d11: failed to create 2D texture id=21173 width=125 height=126 mips=8 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=21173 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+[MVCF] Applying RunAndGun compatibility patch
+[MVCF] Applying Dual Wield compatibility patch
+Translation data for language English has 19 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+ResearchPal :: Research layout initialized
+  --> [What's That Mod] Took 0.42 seconds to scan all patches. <--
+What's That Mod: Wrote to 11572 mod descriptions, 361 patched defs resolved.
+What's That Mod took 439 milliseconds to generate all def descriptions.
+ROCKETMAN: RocketMan settings are stored in <color=red>C:\Users\lswis\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Mod_2479389928_RocketMod.xml</color>
+Could not load reference to Verse.ThingDef named ROM_Chthonian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_ChthonianLarva 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_Cthulhid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DarkYoung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DeepOne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DeepOneGreat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_MiGo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_Shoggoth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_ShoggothColossal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_ShoggothTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StarVampire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named ROM_HaulChthonianSacrifice 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.JobDef named ROM_FillChthonianPit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ROCKETMAN: Defs loaded!
+ROCKETMAN: Patched KeyBinder!
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Patching finished
+SOYUZ: Patching finished
+ROCKETMAN: XMLParser started
+ROCKETRULES: IgnoreMeRule for OskarPotocki.VFE.Mechanoid
+ROCKETRULES: IgnoreMeRule for Alaestor.MiscRobots.PlusPlus
+ROCKETRULES: IgnoreMeRule for Haplo.Miscellaneous.Robots
+ROCKETRULES: IgnoreMeRule for ChJees.Androids
+ROCKETRULES: IgnoreMeRule for automatic.autocleaner
+ROCKETRULES: IgnoreMeRule for neronix17.mechadroids
+ROCKETRULES: IgnoreMeRule for neronix17.outerrim.galaxies
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.drones
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
+[0.001572 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Carpenter
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Aura
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_CC
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Daggersnout
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Boxer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Fireworm
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Goliath
+ROCKETRULES: IgnoreMe add def by name: NM_M_NightStalker
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Phalanx
+ROCKETRULES: IgnoreMe add def by name: NM_M_NightStalker_b
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Siegebreaker
+ROCKETRULES: IgnoreMe add def by name: NM_M_NightStalker_c
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Advanced_Aura
+ROCKETRULES: IgnoreMe add def by name: NM_M_NightStalker_d
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Advanced_Daggersnout
+ROCKETRULES: IgnoreMe add def by name: AA_Dryad_Unstable
+ROCKETRULES: IgnoreMe add def by name: NM_M_NightStalker_e
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Advanced_Fireworm
+ROCKETRULES: IgnoreMe add def by name: TM_DemonR
+ROCKETRULES: IgnoreMe add def by name: NM_M_NightGaunts
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Advanced_Goliath
+ROCKETRULES: IgnoreMe add def by name: TM_LesserDemonR
+ROCKETRULES: IgnoreMe add def by name: NM_M_NightGaunts_b
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Advanced_Phalanx
+ROCKETRULES: IgnoreMe add def by name: NM_M_NightGaunts_c
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Advanced_Siegebreaker
+ROCKETRULES: IgnoreMe add def by name: TM_LesserEarth_ElementalR
+ROCKETRULES: IgnoreMe add def by name: NM_M_NightGaunts_d
+ROCKETRULES: IgnoreMe add def by name: TM_Earth_ElementalR
+ROCKETRULES: IgnoreMe add def by name: NM_M_NightGaunts_e
+ROCKETRULES: IgnoreMe add def by name: TM_GreaterEarth_ElementalR
+ROCKETRULES: IgnoreMe add def by name: NM_M_Nearmare
+ROCKETRULES: IgnoreMe add def by name: TM_LesserFire_ElementalR
+ROCKETRULES: IgnoreMe add def by name: NM_M_Nightmare
+ROCKETRULES: IgnoreMe add def by name: TM_Fire_ElementalR
+ROCKETRULES: IgnoreMe add def by name: NM_M_Nightmare_b
+ROCKETRULES: IgnoreMe add def by name: HAR_NC_M_a_race_Summon
+ROCKETRULES: IgnoreMe add def by name: TM_GreaterFire_ElementalR
+ROCKETRULES: IgnoreMe add def by name: NM_M_Nightmare_c
+ROCKETRULES: IgnoreMe add def by name: TM_LesserWater_ElementalR
+ROCKETRULES: IgnoreMe add def by name: NM_M_Nightmare_d
+ROCKETRULES: IgnoreMe add def by name: HAR_NC_M_b_race_Summon
+ROCKETRULES: IgnoreMe add def by name: TM_Water_ElementalR
+ROCKETRULES: IgnoreMe add def by name: NM_M_Nightmare_e
+ROCKETRULES: IgnoreMe add def by name: TM_GreaterWater_ElementalR
+ROCKETRULES: IgnoreMe add def by name: HAR_NC_M_c_race_Summon
+ROCKETRULES: IgnoreMe add def by name: TM_LesserWind_ElementalR
+ROCKETRULES: IgnoreMe add def by name: TM_Wind_ElementalR
+ROCKETRULES: IgnoreMe add def by name: TM_GreaterWind_ElementalR
+ROCKETRULES: IgnoreMe add def by name: TM_MinionR
+ROCKETRULES: IgnoreMe add def by name: TM_GreaterMinionR
+ROCKETRULES: IgnoreMe add def by name: TM_Lesser_SentinelR
+ROCKETRULES: IgnoreMe add def by name: TM_SentinelR
+ROCKETRULES: IgnoreMe add def by name: TM_Greater_SentinelR
+ROCKETRULES: IgnoreMe add def by name: TM_SkeletonLichR
+ROCKETRULES: IgnoreMe add def by name: TM_GiantSkeletonR
+ROCKETRULES: IgnoreMe add def by name: TM_SkeletonR
+ROCKETRULES: IgnoreMe add def by name: TM_SpiritBearR
+ROCKETRULES: IgnoreMe add def by name: TM_SpiritMongooseR
+ROCKETRULES: IgnoreMe add def by name: TM_SpiritCrowR
+ROCKETRULES: IgnoreMe add def by name: TM_SpiritWolfR
+ROCKETRULES: IgnoreMe add def by name: TM_Poppi
+ROCKETRULES: IgnoreMe add def by name: AA_ChameleonYak
+ROCKETRULES: IgnoreMe add def by name: AA_CrescendoAnole
+ROCKETRULES: IgnoreMe add def by name: ROMA_SpiderRace
+ROCKETRULES: IgnoreMe add def by name: ROMA_SpiderRaceGiant
+ROCKETRULES: IgnoreMe add def by name: ROMA_SpiderRaceGiantQueen
+ROCKETRULES: IgnoreMe add def by name: ROMV_AbyssalArmRace
+ROCKETRULES: IgnoreMe add def by name: ROMV_BloodMistRace
+ROCKETRULES: IgnoreMe add def by name: ROMV_MistRace
+ROCKETRULES: IgnoreMe add def by name: ROMV_BatSpectralRace
+ROCKETRULES: IgnoreMe add def by name: ROMV_WolfSpectralRace
+ROCKETRULES: IgnoreMe add def by name: Scuttlebug
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCentipede
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedLancer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedKnight
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedInquisitor
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedScyther
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedPikeman
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCarpenter
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autocleaner
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autohauler
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autominer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Combat
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Riot
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Turret
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Centipede
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Lancer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Knight
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Inquisitor
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Scyther
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Pikeman
+ROCKETRULES: IgnoreMe add def by name: AA_MatureFleshbeast
+ROCKETRULES: IgnoreMe add def by name: Autocleaner
+ROCKETRULES: IgnoreMe add def by name: BI_Queen
+ROCKETMAN: Hijacking ([REFLECTED] RimWorld.StatWorker:GetValue, [DECLARING] RimWorld.StatWorker:GetValue, [ISSTATIC] False, [ISPUBLIC] False, [ISVIRTUAL] StatWorker, [ABSTRACT] False)
+[BetterLoading] Obtained synclock, assuming post-load actions are complete and starting static constructors.
+[BetterLoading] Starting Antifreeze(tm) StaticConstructorCaller. Synchronizing retransmission chronicity...
+[BetterLoading] Finished stage Running Post Content Load Callbacks at 2:28:57 AM.
+[BetterLoading] Starting stage Finalizing Mods.
+Active Terrain Framework initialized. This mod uses Harmony (all patches are non-destructive): Verse.TerrainGrid.SetTerrain, Verse.TerrainGrid.RemoveTopLayer, Verse.MouseoverReadout.MouseoverReadoutOnGUI
+<color=orange>[CSG]</color> Symbols Creator Started.
+<color=orange>[CSG]</color> Created 30183 symbolDefs for 5 mods. Took 00.04s.
+Patching Madeline.ModMismatchWindow
+Damage Indicators initialized.
+EvolvedOrgansRedux: Meat of Alien_Forsaken was added to the protein recipe.
+EvolvedOrgansRedux: Meat of Kurin_Race was added to the protein recipe.
+EvolvedOrgansRedux: Meat of Mincho_ThingDef was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MinchoWitch was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_Baphomet was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_Catgirl was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_Centaur was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_Cowgirl was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_Dragon was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_ForestFairy was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_Foxgirl was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_Harpy was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_IceFairy was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_Slime was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_Thrumbogirl was added to the protein recipe.
+EvolvedOrgansRedux: Meat of MG_Wolfgirl was added to the protein recipe.
+EvolvedOrgansRedux: Meat of Alien_Moyo was added to the protein recipe.
+EvolvedOrgansRedux: Meat of HAR_Nearmaere was added to the protein recipe.
+EvolvedOrgansRedux: Meat of Alien_Nyaron was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ReviaRaceAlien was added to the protein recipe.
+EvolvedOrgansRedux: Meat of DesignerMatesXH was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ScaleManXH was added to the protein recipe.
+EvolvedOrgansRedux: Meat of SoldiermorphXH was added to the protein recipe.
+EvolvedOrgansRedux: Meat of WolfManXH was added to the protein recipe.
+EvolvedOrgansRedux: Meat of GlitterWorlderRace was added to the protein recipe.
+EvolvedOrgansRedux: Meat of HighGravWorlderRace was added to the protein recipe.
+EvolvedOrgansRedux: Meat of LowGravWorlderRace was added to the protein recipe.
+EvolvedOrgansRedux: Meat of RadWorlderRace was added to the protein recipe.
+EvolvedOrgansRedux: Meat of VatgrownHumanRace was added to the protein recipe.
+EvolvedOrgansRedux: Meat of HAR_Idhale was added to the protein recipe.
+EvolvedOrgansRedux: Meat of HAR_Silkiera was added to the protein recipe.
+EvolvedOrgansRedux: Meat of HAR_Xenoorca was added to the protein recipe.
+EvolvedOrgansRedux: Meat of HAR_Neclose was added to the protein recipe.
+EvolvedOrgansRedux: Meat of Naga was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ATK_Avianmorph was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ATK_Bovinemorph was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ATK_Caninemorph was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ATK_Cervinemorph was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ATK_Dragomorph was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ATK_Felinemorph was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ATK_Gnollmorph was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ATK_Lagomorph was added to the protein recipe.
+EvolvedOrgansRedux: Meat of ATK_Vulpinemorph was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Chitine was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_DarkElf was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Dwarf was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Firbolg was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Gith was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Goblin was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Halfling was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_HalfOrc was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Hobgoblin was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Illithid was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Killoren was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Kobold was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_MoonElf was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Orc was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_SunElf was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Tabaxi was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Tiefling was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_Warforged was added to the protein recipe.
+EvolvedOrgansRedux: Meat of O21_FR_WoodElf was added to the protein recipe.
+Loaded body addon variants for Alien_Forsaken
+Loading variants for Pawns/Forsaken/Horns/Horn
+
+Variants found for Pawns/Forsaken/Horns/Horn: 6
+
+
+Loaded body addon variants for Kurin_Race
+Loading variants for Kurin/Tail/Single tails/Texture1
+
+Variants found for Kurin/Tail/Single tails/Texture1: 1
+
+Loading variants for Kurin/Tail/Single tails/Texture2
+
+Variants found for Kurin/Tail/Single tails/Texture2: 1
+
+Loading variants for Kurin/Tail/Single tails/Texture3
+
+Variants found for Kurin/Tail/Single tails/Texture3: 1
+
+Loading variants for Kurin/Face/Faces/Texture
+
+Variants found for Kurin/Face/Faces/Texture: 3
+
+Loading variants for Kurin/Ear/Ears/DRNTFEarLA
+
+Variants found for Kurin/Ear/Ears/DRNTFEarLA: 2
+
+Loading variants for Kurin/Ear/Ears/DRNTFEarLB
+
+Variants found for Kurin/Ear/Ears/DRNTFEarLB: 2
+
+Loading variants for Kurin/Ear/Ears/DRNTFEarRA
+
+Variants found for Kurin/Ear/Ears/DRNTFEarRA: 2
+
+Loading variants for Kurin/Ear/Ears/DRNTFEarRB
+
+Variants found for Kurin/Ear/Ears/DRNTFEarRB: 2
+
+
+Loaded body addon variants for Mincho_ThingDef
+Loading variants for Mincho_Appearance/Mincho_Hair/Large/AAA/Number/Lower/Texture
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/AAA/Number/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/Mintchoco/00/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/Mintchoco/01/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/Mintchoco/02/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/Mintchoco/03/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/Mintchoco/04/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/Mintchoco/05/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/Mintchoco/06/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/Mintchoco/07/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/Mintchoco/08/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/Mintchoco/09/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/BluePolarBear/00/Lower/Texture: 1
+
+Loading variants for Mincho_Appearance/Mincho_Hair/Large/AAA/Number/Lower/Texture
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/AAA/Number/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Large/PinkFallInLove/00/UpperMore/Texture: 1
+
+Loading variants for Mincho_Appearance/Mincho_Face/Large/AAA/Number/Upper/Eye_Normal/Texture
+
+Variants found for Mincho_Appearance/Mincho_Face/Large/AAA/Number/Upper/Eye_Normal/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Face/Large/Mintchoco/00/Upper/Eye_Normal/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Face/Large/Mintchoco/01/Upper/Eye_Normal/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Face/Large/Mintchoco/02/Upper/Eye_Normal/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Face/Large/Mintchoco/03/Upper/Eye_Normal/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Face/Large/Mintchoco/04/Upper/Eye_Normal/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Face/Large/Mintchoco/05/Upper/Eye_Normal/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Face/Large/BluePolarBear/00/Upper/Eye_Normal/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Face/Large/PinkFallInLove/00/Upper/Eye_Normal/Texture: 1
+
+Loading variants for Mincho_Appearance/Mincho_Ear/Large/AAA/Texture
+
+Variants found for Mincho_Appearance/Mincho_Ear/Large/AAA/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Ear/Large/Mintchoco/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Ear/Large/BluePolarBear/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Ear/Large/PinkFallInLove/Texture: 1
+
+Loading variants for Mincho_Appearance/Mincho_Hair/Medium/AAA/Number/Lower/Texture
+
+Variants found for Mincho_Appearance/Mincho_Hair/Medium/AAA/Number/Lower/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Hair/Medium/Mintchoco/00/Lower/Texture: 1
+
+Loading variants for Mincho_Appearance/Mincho_Face/Medium/AAA/Number/Upper/Eye_Normal/Texture
+
+Variants found for Mincho_Appearance/Mincho_Face/Medium/AAA/Number/Upper/Eye_Normal/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Face/Medium/Mintchoco/00/Upper/Eye_Normal/Texture: 1
+
+Loading variants for Mincho_Appearance/Mincho_Ear/Medium/AAA/Texture
+
+Variants found for Mincho_Appearance/Mincho_Ear/Medium/AAA/Texture: 1
+
+Variants found for Mincho_Appearance/Mincho_Ear/Medium/Mintchoco/Texture: 1
+
+
+Loaded body addon variants for MinchoWitch
+Loading variants for MinchoWitch/Face/Upper_Public/Neutral/Texture
+
+Variants found for MinchoWitch/Face/Upper_Public/Neutral/Texture: 1
+
+
+Loaded body addon variants for MG_Baphomet
+Loading variants for Baphomet/FemaleBody/Female_Body
+
+Variants found for Baphomet/FemaleBody/Female_Body: 1
+
+Loading variants for Baphomet/Heads/FemaleHeads/Female_Head
+
+Variants found for Baphomet/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for Baphomet/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for Baphomet/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for Baphomet/MaleBody/Male_Body
+
+Variants found for Baphomet/MaleBody/Male_Body: 1
+
+Loading variants for Baphomet/Heads/MaleHeads/Male_Head
+
+Variants found for Baphomet/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for Baphomet/Heads/MaleHeads/Male_Head_Back
+
+Variants found for Baphomet/Heads/MaleHeads/Male_Head_Back: 1
+
+
+Loaded body addon variants for MG_Catgirl
+Loading variants for Catgirl/Naked_FemaleBody
+
+Variants found for Catgirl/Naked_FemaleBody: 1
+
+Loading variants for Catgirl/Naked_FemaleBody_Back
+
+Variants found for Catgirl/Naked_FemaleBody_Back: 1
+
+Loading variants for Catgirl/Heads/FemaleHead
+
+Variants found for Catgirl/Heads/FemaleHead: 1
+
+Loading variants for Catgirl/Heads/FemaleHead_Back
+
+Variants found for Catgirl/Heads/FemaleHead_Back: 1
+
+Loading variants for Catgirl/Naked_MaleBody
+
+Variants found for Catgirl/Naked_MaleBody: 1
+
+Loading variants for Catgirl/Naked_MaleBody_Back
+
+Variants found for Catgirl/Naked_MaleBody_Back: 1
+
+Loading variants for Catgirl/Heads/MaleHead
+
+Variants found for Catgirl/Heads/MaleHead: 1
+
+Loading variants for Catgirl/Heads/MaleHead_Back
+
+Variants found for Catgirl/Heads/MaleHead_Back: 1
+
+
+Loaded body addon variants for MG_Centaur
+Loading variants for Centaur/FemaleBody/Female_Body
+
+Variants found for Centaur/FemaleBody/Female_Body: 1
+
+Loading variants for Centaur/Heads/FemaleHeads/Female_Head
+
+Variants found for Centaur/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for Centaur/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for Centaur/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for Centaur/MaleBody/Male_Body
+
+Variants found for Centaur/MaleBody/Male_Body: 1
+
+Loading variants for Centaur/Heads/MaleHeads/Male_Head
+
+Variants found for Centaur/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for Centaur/Heads/MaleHeads/Male_Head_Back
+
+Variants found for Centaur/Heads/MaleHeads/Male_Head_Back: 1
+
+
+Loaded body addon variants for MG_Cowgirl
+Loading variants for Cowgirl/FemaleBody/Female_Body
+
+Variants found for Cowgirl/FemaleBody/Female_Body: 1
+
+Loading variants for Cowgirl/Heads/FemaleHeads/Female_Head
+
+Variants found for Cowgirl/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for Cowgirl/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for Cowgirl/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for Cowgirl/MaleBody/Male_Body
+
+Variants found for Cowgirl/MaleBody/Male_Body: 1
+
+Loading variants for Cowgirl/Heads/MaleHeads/Male_Head
+
+Variants found for Cowgirl/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for Cowgirl/Heads/MaleHeads/Male_Head_Back
+
+Variants found for Cowgirl/Heads/MaleHeads/Male_Head_Back: 1
+
+Loading variants for Cowgirl/Horn/Female_Horn
+
+Variants found for Cowgirl/Horn/Female_Horn: 1
+
+Loading variants for Cowgirl/Horn/Male_Horn
+
+Variants found for Cowgirl/Horn/Male_Horn: 1
+
+
+Loaded body addon variants for MG_Dragon
+Loading variants for Dragongirl/Horn/Female_LeftHorn
+
+Variants found for Dragongirl/Horn/Female_LeftHorn: 1
+
+Loading variants for Dragongirl/Horn/Female_RightHorn
+
+Variants found for Dragongirl/Horn/Female_RightHorn: 1
+
+Loading variants for Dragongirl/Horn/Male_LeftHorn
+
+Variants found for Dragongirl/Horn/Male_LeftHorn: 1
+
+Loading variants for Dragongirl/Horn/Male_RightHorn
+
+Variants found for Dragongirl/Horn/Male_RightHorn: 1
+
+Loading variants for Dragongirl/FemaleBody/Female_Body
+
+Variants found for Dragongirl/FemaleBody/Female_Body: 1
+
+Loading variants for Dragongirl/FemaleBody/Female_Body_Back
+
+Variants found for Dragongirl/FemaleBody/Female_Body_Back: 1
+
+Loading variants for Dragongirl/Heads/FemaleHeads/Female_Head
+
+Variants found for Dragongirl/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for Dragongirl/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for Dragongirl/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for Dragongirl/MaleBody/Male_Body
+
+Variants found for Dragongirl/MaleBody/Male_Body: 1
+
+Loading variants for Dragongirl/MaleBody/Male_Body_Back
+
+Variants found for Dragongirl/MaleBody/Male_Body_Back: 1
+
+Loading variants for Dragongirl/Heads/MaleHeads/Male_Head
+
+Variants found for Dragongirl/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for Dragongirl/Heads/MaleHeads/Male_Head_Back
+
+Variants found for Dragongirl/Heads/MaleHeads/Male_Head_Back: 1
+
+
+Loaded body addon variants for MG_ForestFairy
+Loading variants for ForestFairy/FemaleBody/Female_Body
+
+Variants found for ForestFairy/FemaleBody/Female_Body: 1
+
+Loading variants for ForestFairy/FemaleBody/Female_Body_Back
+
+Variants found for ForestFairy/FemaleBody/Female_Body_Back: 1
+
+Loading variants for ForestFairy/Heads/FemaleHeads/Female_Head
+
+Variants found for ForestFairy/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for ForestFairy/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for ForestFairy/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for ForestFairy/MaleBody/Male_Body
+
+Variants found for ForestFairy/MaleBody/Male_Body: 1
+
+Loading variants for ForestFairy/Heads/MaleHeads/Male_Head
+
+Variants found for ForestFairy/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for ForestFairy/Heads/MaleHeads/Male_Head_Back
+
+Variants found for ForestFairy/Heads/MaleHeads/Male_Head_Back: 1
+
+
+Loaded body addon variants for MG_Foxgirl
+Loading variants for Foxgirl/FemaleBody/Female_Body
+
+Variants found for Foxgirl/FemaleBody/Female_Body: 1
+
+Loading variants for Foxgirl/FemaleBody/Female_Body_Back
+
+Variants found for Foxgirl/FemaleBody/Female_Body_Back: 1
+
+Loading variants for Foxgirl/Heads/FemaleHeads/Female_Head
+
+Variants found for Foxgirl/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for Foxgirl/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for Foxgirl/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for Foxgirl/MaleBody/Male_Body
+
+Variants found for Foxgirl/MaleBody/Male_Body: 1
+
+Loading variants for Foxgirl/MaleBody/Male_Body_Back
+
+Variants found for Foxgirl/MaleBody/Male_Body_Back: 1
+
+Loading variants for Foxgirl/Heads/MaleHeads/Male_Head
+
+Variants found for Foxgirl/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for Foxgirl/Heads/MaleHeads/Male_Head_Back
+
+Variants found for Foxgirl/Heads/MaleHeads/Male_Head_Back: 1
+
+
+Loaded body addon variants for MG_Harpy
+Loading variants for Harpy/FemaleBody/Female_Body
+
+Variants found for Harpy/FemaleBody/Female_Body: 1
+
+Loading variants for Harpy/FemaleBody/Female_Body_Back
+
+Variants found for Harpy/FemaleBody/Female_Body_Back: 1
+
+Loading variants for Harpy/Heads/FemaleHeads/Female_Head
+
+Variants found for Harpy/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for Harpy/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for Harpy/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for Harpy/MaleBody/Male_Body
+
+Variants found for Harpy/MaleBody/Male_Body: 1
+
+Loading variants for Harpy/MaleBody/Male_Body_Back
+
+Variants found for Harpy/MaleBody/Male_Body_Back: 1
+
+Loading variants for Harpy/Heads/MaleHeads/Male_Head
+
+Variants found for Harpy/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for Harpy/Heads/MaleHeads/Male_Head_Back
+
+Variants found for Harpy/Heads/MaleHeads/Male_Head_Back: 1
+
+Loading variants for Harpy/Wings/Female_Wing
+
+Variants found for Harpy/Wings/Female_Wing: 1
+
+Loading variants for Harpy/Wings/Male_Wing
+
+Variants found for Harpy/Wings/Male_Wing: 1
+
+
+Loaded body addon variants for MG_IceFairy
+Loading variants for IceFairy/FemaleBody/Female_Body
+
+Variants found for IceFairy/FemaleBody/Female_Body: 1
+
+Loading variants for IceFairy/Heads/FemaleHeads/Female_Head
+
+Variants found for IceFairy/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for IceFairy/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for IceFairy/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for IceFairy/MaleBody/Male_Body
+
+Variants found for IceFairy/MaleBody/Male_Body: 1
+
+Loading variants for IceFairy/Heads/MaleHeads/Male_Head
+
+Variants found for IceFairy/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for IceFairy/Heads/MaleHeads/Male_Head_Back
+
+Variants found for IceFairy/Heads/MaleHeads/Male_Head_Back: 1
+
+
+Loaded body addon variants for MG_Slime
+Loading variants for Slime/FemaleBody/Female_Body
+
+Variants found for Slime/FemaleBody/Female_Body: 1
+
+Loading variants for Slime/Heads/FemaleHeads/Female_Head
+
+Variants found for Slime/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for Slime/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for Slime/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for Slime/MaleBody/Male_Body
+
+Variants found for Slime/MaleBody/Male_Body: 1
+
+Loading variants for Slime/Heads/MaleHeads/Male_Head
+
+Variants found for Slime/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for Slime/Heads/MaleHeads/Male_Head_Back
+
+Variants found for Slime/Heads/MaleHeads/Male_Head_Back: 1
+
+
+Loaded body addon variants for MG_Thrumbogirl
+Loading variants for Thrumbogirl/Horn/Horn
+
+Variants found for Thrumbogirl/Horn/Horn: 1
+
+Variants found for Thrumbogirl/Horn/Wood/Horn: 1
+
+Variants found for Thrumbogirl/Horn/Steel/Horn: 1
+
+Variants found for Thrumbogirl/Horn/Silver/Horn: 1
+
+Variants found for Thrumbogirl/Horn/Gold/Horn: 1
+
+Variants found for Thrumbogirl/Horn/Jade/Horn: 1
+
+Variants found for Thrumbogirl/Horn/Plasteel/Horn: 1
+
+Loading variants for Thrumbogirl/FemaleBody/Female_Body
+
+Variants found for Thrumbogirl/FemaleBody/Female_Body: 1
+
+Loading variants for Thrumbogirl/FemaleBody/Female_Body_Back
+
+Variants found for Thrumbogirl/FemaleBody/Female_Body_Back: 1
+
+Loading variants for Thrumbogirl/Heads/FemaleHeads/Female_Head
+
+Variants found for Thrumbogirl/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for Thrumbogirl/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for Thrumbogirl/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for Thrumbogirl/MaleBody/Male_Body
+
+Variants found for Thrumbogirl/MaleBody/Male_Body: 1
+
+Loading variants for Thrumbogirl/MaleBody/Male_Body_Back
+
+Variants found for Thrumbogirl/MaleBody/Male_Body_Back: 1
+
+Loading variants for Thrumbogirl/Heads/MaleHeads/Male_Head
+
+Variants found for Thrumbogirl/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for Thrumbogirl/Heads/MaleHeads/Male_Head_Back
+
+Variants found for Thrumbogirl/Heads/MaleHeads/Male_Head_Back: 1
+
+
+Loaded body addon variants for MG_Wolfgirl
+Loading variants for Wolfgirl/FemaleBody/Female_Body
+
+Variants found for Wolfgirl/FemaleBody/Female_Body: 1
+
+Loading variants for Wolfgirl/FemaleBody/Female_Body_Back
+
+Variants found for Wolfgirl/FemaleBody/Female_Body_Back: 1
+
+Loading variants for Wolfgirl/Heads/FemaleHeads/Female_Head
+
+Variants found for Wolfgirl/Heads/FemaleHeads/Female_Head: 1
+
+Loading variants for Wolfgirl/Heads/FemaleHeads/Female_Head_Back
+
+Variants found for Wolfgirl/Heads/FemaleHeads/Female_Head_Back: 1
+
+Loading variants for Wolfgirl/MaleBody/Male_Body
+
+Variants found for Wolfgirl/MaleBody/Male_Body: 1
+
+Loading variants for Wolfgirl/MaleBody/Male_Body_Back
+
+Variants found for Wolfgirl/MaleBody/Male_Body_Back: 1
+
+Loading variants for Wolfgirl/Heads/MaleHeads/Male_Head
+
+Variants found for Wolfgirl/Heads/MaleHeads/Male_Head: 1
+
+Loading variants for Wolfgirl/Heads/MaleHeads/Male_Head_Back
+
+Variants found for Wolfgirl/Heads/MaleHeads/Male_Head_Back: 1
+
+
+Loaded body addon variants for Alien_Moyo
+Loading variants for Moyo/Tail/MoyoTail
+
+Variants found for Moyo/Tail/MoyoTail: 1
+
+Loading variants for Moyo/Heads/MoyoAtenna_Left
+
+Variants found for Moyo/Heads/MoyoAtenna_Left: 1
+
+Loading variants for Moyo/Heads/MoyoAtenna_Right
+
+Variants found for Moyo/Heads/MoyoAtenna_Right: 1
+
+
+Loaded body addon variants for HAR_Nearmaere
+Loading variants for HAR_NM/body_P/Wing/NMWing
+
+Variants found for HAR_NM/body_P/Wing/NMWing: 11
+
+Loading variants for HAR_NM/body_P/Horn/NMHorn
+
+Variants found for HAR_NM/body_P/Horn/NMHorn: 11
+
+
+Loaded body addon variants for Alien_Nyaron
+Loading variants for Things/Pawn/Addons/Tails/Tail
+
+Variants found for Things/Pawn/Addons/Tails/Tail: 3
+
+Loading variants for Things/Pawn/Addons/Ears/Cat_LeftBackEar
+
+Variants found for Things/Pawn/Addons/Ears/Cat_LeftBackEar: 3
+
+Loading variants for Things/Pawn/Addons/Ears/Cat_LeftFrontEar
+
+Variants found for Things/Pawn/Addons/Ears/Cat_LeftFrontEar: 3
+
+Loading variants for Things/Pawn/Addons/Ears/Cat_RightBackEar
+
+Variants found for Things/Pawn/Addons/Ears/Cat_RightBackEar: 3
+
+Loading variants for Things/Pawn/Addons/Ears/Cat_RightFrontEar
+
+Variants found for Things/Pawn/Addons/Ears/Cat_RightFrontEar: 3
+
+
+Loaded body addon variants for ReviaRaceAlien
+Loading variants for Things/Tails/Tail1
+
+Variants found for Things/Tails/Tail1: 1
+
+Variants found for Things/Tails/Tail1: 1
+
+Variants found for Things/Tails/Tail2: 1
+
+Variants found for Things/Tails/Tail3: 1
+
+Variants found for Things/Tails/Tail4: 1
+
+Variants found for Things/Tails/Tail5: 1
+
+Variants found for Things/Tails/Tail6: 1
+
+Variants found for Things/Tails/Tail7: 1
+
+Variants found for Things/Tails/Tail8: 1
+
+Variants found for Things/Tails/Tail9: 1
+
+Loading variants for Things/Ears/EarLeft
+
+Variants found for Things/Ears/EarLeft: 1
+
+Loading variants for Things/Ears/EarRight
+
+Variants found for Things/Ears/EarRight: 1
+
+
+Loaded body addon variants for HAR_Idhale
+Loading variants for HAR_IH/body_P/DevilFire_B/DFB
+
+Variants found for HAR_IH/body_P/DevilFire_B/DFB: 6
+
+Loading variants for HAR_IH/body_P/DevilFire_F/DFF
+
+Variants found for HAR_IH/body_P/DevilFire_F/DFF: 6
+
+
+Loaded body addon variants for HAR_Silkiera
+Loading variants for HAR_SK/body_P/Tail/SKTail
+
+Variants found for HAR_SK/body_P/Tail/SKTail: 6
+
+Loading variants for HAR_SK/body_P/Ear/SKEar
+
+Variants found for HAR_SK/body_P/Ear/SKEar: 9
+
+
+Loaded body addon variants for HAR_Xenoorca
+Loading variants for HAR_XO/body_P/Fillet/XOFillet
+
+Variants found for HAR_XO/body_P/Fillet/XOFillet: 4
+
+Loading variants for HAR_XO/body_P/Gills/XOGills
+
+Variants found for HAR_XO/body_P/Gills/XOGills: 4
+
+
+Loaded body addon variants for HAR_Neclose
+Loading variants for HAR_NC/body_P/Wing/NCWing
+
+Variants found for HAR_NC/body_P/Wing/NCWing: 6
+
+Loading variants for HAR_NC/body_P/Horn/NCHorn
+
+Variants found for HAR_NC/body_P/Horn/NCHorn: 4
+
+
+Loaded body addon variants for Naga
+Loading variants for Things/Naga/EarFin/EarFin
+
+Variants found for Things/Naga/EarFin/EarFin: 1
+
+Loading variants for Things/Naga/Horns/Horns
+
+Variants found for Things/Naga/Horns/Horns: 1
+
+Loading variants for Things/Naga/Horns/HornsHidden
+
+Variants found for Things/Naga/Horns/HornsHidden: 1
+
+
+Loaded body addon variants for ATK_Avianmorph
+Loading variants for Things/Pawn/Xenohumanlike/Avianmorph/Tails/Tail
+
+Variants found for Things/Pawn/Xenohumanlike/Avianmorph/Tails/Tail: 2
+
+Loading variants for Things/Pawn/Xenohumanlike/Avianmorph/Ears/Left_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Avianmorph/Ears/Left_Ear: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Avianmorph/Ears/Right_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Avianmorph/Ears/Right_Ear: 1
+
+
+Loaded body addon variants for ATK_Bovinemorph
+Loading variants for Things/Pawn/Xenohumanlike/Bovinemorph/Tails/Tail
+
+Variants found for Things/Pawn/Xenohumanlike/Bovinemorph/Tails/Tail: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Bovinemorph/Ears/Left_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Bovinemorph/Ears/Left_Ear: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Bovinemorph/Ears/Right_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Bovinemorph/Ears/Right_Ear: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Bovinemorph/Horns/Left_Horn
+
+Variants found for Things/Pawn/Xenohumanlike/Bovinemorph/Horns/Left_Horn: 2
+
+Loading variants for Things/Pawn/Xenohumanlike/Bovinemorph/Horns/Right_Horn
+
+Variants found for Things/Pawn/Xenohumanlike/Bovinemorph/Horns/Right_Horn: 2
+
+
+Loaded body addon variants for ATK_Caninemorph
+Loading variants for Things/Pawn/Xenohumanlike/Caninemorph/Tails/Tail
+
+Variants found for Things/Pawn/Xenohumanlike/Caninemorph/Tails/Tail: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Caninemorph/Ears/Left_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Caninemorph/Ears/Left_Ear: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Caninemorph/Ears/Right_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Caninemorph/Ears/Right_Ear: 1
+
+
+Loaded body addon variants for ATK_Cervinemorph
+Loading variants for Things/Pawn/Xenohumanlike/Cervinemorph/Tails/Tail
+
+Variants found for Things/Pawn/Xenohumanlike/Cervinemorph/Tails/Tail: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Cervinemorph/Ears/Left_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Cervinemorph/Ears/Left_Ear: 2
+
+Loading variants for Things/Pawn/Xenohumanlike/Cervinemorph/Ears/Right_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Cervinemorph/Ears/Right_Ear: 2
+
+Loading variants for Things/Pawn/Xenohumanlike/Cervinemorph/Antlers/Left_Antler
+
+Variants found for Things/Pawn/Xenohumanlike/Cervinemorph/Antlers/Left_Antler: 2
+
+Loading variants for Things/Pawn/Xenohumanlike/Cervinemorph/Antlers/Right_Antler
+
+Variants found for Things/Pawn/Xenohumanlike/Cervinemorph/Antlers/Right_Antler: 2
+
+
+Loaded body addon variants for ATK_Dragomorph
+Loading variants for Things/Pawn/Xenohumanlike/Dragomorph/Tails/Tail
+
+Variants found for Things/Pawn/Xenohumanlike/Dragomorph/Tails/Tail: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Dragomorph/Ears/Left_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Dragomorph/Ears/Left_Ear: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Dragomorph/Ears/Right_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Dragomorph/Ears/Right_Ear: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Dragomorph/Horns/Left_Horn
+
+Variants found for Things/Pawn/Xenohumanlike/Dragomorph/Horns/Left_Horn: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Dragomorph/Horns/Right_Horn
+
+Variants found for Things/Pawn/Xenohumanlike/Dragomorph/Horns/Right_Horn: 1
+
+
+Loaded body addon variants for ATK_Felinemorph
+Loading variants for Things/Pawn/Xenohumanlike/Felinemorph/Tails/Tail
+
+Variants found for Things/Pawn/Xenohumanlike/Felinemorph/Tails/Tail: 2
+
+Loading variants for Things/Pawn/Xenohumanlike/Felinemorph/Ears/Left/Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Felinemorph/Ears/Left/Ear: 2
+
+Loading variants for Things/Pawn/Xenohumanlike/Felinemorph/Ears/Right/Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Felinemorph/Ears/Right/Ear: 2
+
+
+Loaded body addon variants for ATK_Gnollmorph
+Loading variants for Things/Pawn/Xenohumanlike/Gnollmorph/Tails/Tail
+
+Variants found for Things/Pawn/Xenohumanlike/Gnollmorph/Tails/Tail: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Gnollmorph/Ears/Left_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Gnollmorph/Ears/Left_Ear: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Gnollmorph/Ears/Right_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Gnollmorph/Ears/Right_Ear: 1
+
+
+Loaded body addon variants for ATK_Lagomorph
+Loading variants for Things/Pawn/Xenohumanlike/Lagomorph/Tails/Tail
+
+Variants found for Things/Pawn/Xenohumanlike/Lagomorph/Tails/Tail: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Lagomorph/Ears/Left_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Lagomorph/Ears/Left_Ear: 2
+
+Loading variants for Things/Pawn/Xenohumanlike/Lagomorph/Ears/Right_Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Lagomorph/Ears/Right_Ear: 2
+
+
+Loaded body addon variants for ATK_Vulpinemorph
+Loading variants for Things/Pawn/Xenohumanlike/Vulpinemorph/Tails/Tail
+
+Variants found for Things/Pawn/Xenohumanlike/Vulpinemorph/Tails/Tail: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Vulpinemorph/Ears/Left/Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Vulpinemorph/Ears/Left/Ear: 1
+
+Loading variants for Things/Pawn/Xenohumanlike/Vulpinemorph/Ears/Right/Ear
+
+Variants found for Things/Pawn/Xenohumanlike/Vulpinemorph/Ears/Right/Ear: 1
+
+
+Loaded body addon variants for O21_FR_Chitine
+Loading variants for Pawn/Chitine/Eyes/Eyes
+
+Variants found for Pawn/Chitine/Eyes/Eyes: 1
+
+
+Loaded body addon variants for O21_FR_Tiefling
+Loading variants for Pawn/Tieflings/Horns/Horns
+
+Variants found for Pawn/Tieflings/Horns/Horns: 4
+
+
+Alien race successfully completed 155 patches with harmony.
+Grenades Expanded ### Killer Bunny unchained ### Secret incident successfully loaded...
+ApparelBodyTypeResolver Patched
+ChangeLook_patched
+Mincho_The_Mint_Choco_Slime_patched
+Mincho_The_Mint_Choco_Slime_patched
+Mincho_The_Mint_Choco_Slime_patched
+Mincho_The_Mint_Choco_Slime_patched
+MinchoWitch_patched
+MinchoWitch_patched
+Marilyn_the_Mincho_Worshipper_Witch
+MoreCrashedShipParts: Using harmony to patch lightning strikes.
+MoharFW.MoharGfx patched Mote.SpawnSetup successfully.
+MoharFW OHFP - CompEggLayer_Patch applied
+PickUpAndHaul v0.1.3.1⅓ welcomes you to RimWorld with pointless logspam.
+[RimHUD v1.8.0] Initialized
+Attempting to patch meditation
+Successfully patched meditation
+[ShowDrafteesWeapon] Initialized
+Initializing Tribbles.... 
+[XML Extensions] Finished initializing 0 SettingsMenuDefs
+[XML Extensions] Found 0 extra keys from 0 unloaded mods
+Wall Light: v1.3.7884.17582
+SupplyAndDemand Harmony Patches:
+
+  Postfix:
+
+    StockGenerator.RandomCountOf
+[RJWEx] [RJWEx] Patching...
+
+[RJWEx] Gag graphics patch applied @ Verse.PawnGraphicSet.ResolveApparelGraphics as Transpiler
+
+[RJWEx] ...done
+[BetterLoading] Finished stage Finalizing Mods at 2:29:17 AM.
+[BetterLoading] Starting stage Running Post-Finalize Callbacks.
+[BetterLoading] Finished calling static constructors at 2:29:17 AM.
+[BetterLoading] Processing 2 post-finalize tasks.
+[BetterLoading] Finished stage Running Post-Finalize Callbacks at 2:29:18 AM.
+[BetterLoading] Starting stage Initializing HugsLib.
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+found Stloc_1
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+[HugsLib] initializing ARimWorldOfMagic, AlmostThere, AutopsyTable, DeathRattle, Roolo.DualWield, Autopsy, com.jkluch.HaulToStack, Hospitality, LabelsOnFloor, WhatTheHack, BattleMounts, GiddyUpCaravan, GiddyUpCore, GiddyUpRideAndRoll, MoreMechanoids, OneBigFamily, RunAndGun, SearchAndDestroy, SpeakUp, RJW
+[BetterLoading:HugsLib Compat] HugsLib has enumerated child mods, it has found 21 of them.
+[BetterLoading:HugsLib Compat] HugsLib has Loaded, Reloaded, and Initialized. Marking as done.
+[BetterLoading] Finished processing load list, hiding.
+[BetterLoading] Game load has finished. Timing data follows:
+Spent 30785.4734ms reading, building, and patching XML tree.
+Spent 15178.6704ms turning XML into def instances.
+Spent 117183.5734ms resolving cross-references and running post-load, pre-finalize callbacks.
+Spent 40711.0585ms running static constructors (initializing mods).
+Spent -63767813358280.5ms running post-finalize callbacks.
+In total, spent 206219.7467ms launching the game.
+SS Lightning Rod Detours: Using Harmony to Prefix and Transpiler patch WeatherEvent_LightningStrike.FireEvent
+[BetterLoading] Obtained lock, assuming we're done with post-finalize.
+[ShowMeYourHands]: Defined hand definitions of 378 weapons
+xdoc is still open. force-closing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.310300 ms
+
+Unloading 380 unused Assets to reduce memory usage. Loaded Objects now: 52342.
+Total: 711.191900 ms (FindLiveObjects: 2.192500 ms CreateObjectMapping: 1.541800 ms MarkObjects: 706.512000 ms  DeleteObjects: 0.944600 ms)
+
+Loading game from file 09-20-21 with mods:
+  - brrainz.harmony
+  - me.samboycoding.betterloading
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - ccl.patchoperation.highlander
+  - UnlimitedHugs.HugsLib
+  - jecrell.jecstools
+  - Torann.ARimworldOfMagic
+  - Mlie.AdvancedBiomes
+  - UnlimitedHugs.AllowTool
+  - roolo.AlmostThere
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - sarg.alphaanimals
+  - sarg.alphabiomes
+  - Ameiro.Animehairs
+  - xrushha.AnimaAnimals
+  - xrushha.AnimaAnimalsCommunityPack
+  - xrushha.AnimaGear
+  - Haecriver.OutfitCopy
+  - automatic.autocleaner
+  - Mlie.AutopsyTable
+  - machine.betterinfestations
+  - Mlie.BetterMessagePlacement
+  - Madeline.ModMismatchFormatter
+  - co.uk.epicguru.bettertranshumanists
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VCEF
+  - ReGrowth.BOTR.Core
+  - ReGrowth.BOTR.AspenForest
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VCookE
+  - Fluffysminion.ItW.CaveworldFloraUnleashed
+  - automatic.bionicicons
+  - Mlie.Blowguns
+  - Mlie.Boombugs
+  - Mlie.BrighterBlood
+  - brrainz.cameraplus
+  - CaptainMuscles.CategorizedBills
+  - Mlie.CaveworldFlora
+  - Mlie.CaveBiome
+  - Mlie.Chomper
+  - Owlchemist.CleanPathfinding
+  - Dubwise.DubsBadHygiene
+  - avilmask.CommonSense
+  - CaesarV6.DamageIndicators
+  - Troopersmith1.DeathRattle
+  - Mlie.DismissTrader
+  - CaptainMuscles.PrioritizeResearch
+  - tikubonn.DontBlockDoor
+  - dracoix.doormat.r12a
+  - telardo.DragSelect
+  - eagle0600.dressPatients
+  - CaptainMuscles.DropInventory
+  - Mlie.DrugsPlus
+  - Roolo.DualWield
+  - Dubwise.DubsPerformanceAnalyzer
+  - Aelanna.EccentricExtras.AngelHairs
+  - Erin.Hairredux
+  - StatistNo1.EvolvedOrgansRedux
+  - Mlie.ExpandedIncidents
+  - Ykara.EPOE
+  - Gloomy.GloomyFaceMk2
+  - MengDe.FE3H.BlackEaglesHair
+  - MengDe.FE3H.MiscHair
+  - kosaro.fahrenheitandcelsius
+  - ssulunge.BBBodySupport
+  - erdelf.HumanoidAlienRaces
+  - ssulunge.BBBodyAlienRaces
+  - ssulunge.BBBodyHuman
+  - kikohi.forsakens
+  - forsakens.fauna
+  - Mlie.FuelBurning
+  - Gloomy.GloomyHairMk2
+  - automatic.gradienthair
+  - Mlie.GrenadesExpanded
+  - Smuffle.HarvestOrgansPostMortem
+  - jkluch.HaulToStack
+  - omanjuu.hololivehair
+  - Hahke.HonestCorpse
+  - Mlie.Horrors
+  - Mlie.MoreFactionInteraction
+  - Orion.Hospitality
+  - fridgeBaron.Immortals
+  - pleccymm.infectiouscreatures
+  - nilchei.insectoidsevolved
+  - Alias.DegeneralizeWork
+  - Seioch.Kurin.HAR
+  - RutraNickers.KurinHARApparelPatch
+  - falconne.LabelsOnFloor
+  - Vanya.Agent.LolidropHairshop
+  - gguake.apparelbodyresolver
+  - SutSutMan.MinchoTheMintChocoSlimeHARver
+  - SutSutMan.MarilyntheMinchoWorshipperWitchHARver
+  - Chairheir.MechanitePlague
+  - roolo.whatthehack
+  - neronix17.toolbox
+  - roolo.giddyupcore
+  - roolo.giddyupbattlemounts
+  - roolo.giddyupcaravan
+  - roolo.giddyuprideandroll
+  - Spino.Megafauna
+  - Haplo.Miscellaneous.Core
+  - Haplo.Miscellaneous.Incidents
+  - Fluffy.ModManager
+  - Razar1.MonstergirlRaces
+  - Mlie.MonstrousCompendium
+  - neceros.morecomponents
+  - AtamanDolinskaja.MoreCrashedShipParts
+  - Orion.MoreMechanoids
+  - noodlesking.MorePsycasts
+  - Sinnamon.MoreRitualRewards
+  - goudaquiche.MoharFramework
+  - Nemonian.MY
+  - Ayameduki.HARNearmare
+  - Nif.Nearmare.ENGTranslation
+  - AmCh.needBarOverflow
+  - Mlie.NewLimbsNeedsTraining
+  - Unon.NoBurnMetal
+  - CaptainMuscles.NoPawnLeftBehind
+  - Farmradish.Nyaron
+  - Orion.OneBigFamily
+  - fed1sPlay.PawnTargetFix
+  - battlemage64.PeopleCanChange
+  - Mehni.PickUpAndHaul
+  - Extracting.Organs
+  - erdelf.PrisonerRansom
+  - LongerCFloor.ProxyHeat
+  - legodude17.qualcolor
+  - Ed86.RJW.Whorebeds
+  - ReGrowth.BOTR.BorealForestExpansion
+  - ReGrowth.BOTR.ColdBogExpansion
+  - ReGrowth.BOTR.DesertExpansion
+  - OskarPotocki.VFE.Insectoid
+  - ReGrowth.BOTR.Wastelands
+  - ReGrowth.BOTR.WastelandFauna
+  - ReGrowth.BOTR.TemperateForestExpansion
+  - ReGrowth.BOTR.TundraExpansion
+  - Jaxe.RimHUD
+  - automatic.recipeicons
+  - VinaLx.ResearchPalForked
+  - FS.ReviaRace
+  - Mlie.RimofMadnessArachnophobia
+  - sihv.rombones
+  - RimOfMadness.Vampires
+  - Mlie.RimBeast
+  - sarg.rimbees
+  - Dubwise.Rimefeller
+  - rimsenal.hair
+  - Rooboid586.RooOsHHDHHairstyles
+  - roolo.RunAndGun
+  - SF.Grim.Reality
+  - Mlie.SSLightningRod
+  - roolo.SearchAndDestroy
+  - Fluffy.ShitRimWorldSays
+  - targhetti.ShowDrafteesWeapon
+  - Mlie.ShowMeYourHands
+  - dhultgren.smarterconstruction
+  - legodude17.smartdecon
+  - weilbyte.snapout
+  - marvinkosh.sometimesraidsgowrong
+  - Mlie.SpaceWorms
+  - Jaxe.Bubbles
+  - JPT.speakup
+  - spoonshortage.spoonshairmod
+  - Scherub.StonecuttingExtended
+  - tickspersecond.sparr.rw
+  - MrChimick.TooManyAreas
+  - zylle.TribbleTrouble
+  - marvinkosh.ughyougotme
+  - imranfish.xmlextensions
+  - Grimm.Unlimited
+  - OskarPotocki.VFE.Mechanoid
+  - nowano.vfem.prisonControlDroid
+  - ReGrowth.BOTR.ExtinctAnimalsPack
+  - VanillaExpanded.VAEAS
+  - VanillaExpanded.VAEAU
+  - VanillaExpanded.VAEBF
+  - VanillaExpanded.VAECD
+  - VanillaExpanded.VAED
+  - VanillaExpanded.VAEED
+  - VanillaExpanded.VAEIS
+  - VanillaExpanded.VAETR
+  - VanillaExpanded.VAETS
+  - VanillaExpanded.VAET
+  - OskarPotocki.VFE.Vikings
+  - VanillaExpanded.VTEXE
+  - VFME.CaravanPacks
+  - VanillaExpanded.VAECaves
+  - VanillaExpanded.VAEEndAndExt
+  - VanillaExpanded.VAETF
+  - VanillaExpanded.VAEAccessories
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VBrewECandT
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookESushi
+  - OskarPotocki.VanillaExpanded.IdeologyPatches
+  - OskarPotocki.VanillaExpanded.RoyaltyPatches
+  - deon.royaltytexturesexpanded
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VEE
+  - OskarPotocki.VanillaFactionsExpanded.SettlersModule
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFESecurity
+  - VanillaExpanded.VFESpacer
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VWEL
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEQ
+  - OskarPotocki.VanillaFactionsExpanded.MedievalModule
+  - VanillaExpanded.VCEFAddon
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VFEPropsandDecor
+  - VanillaExpanded.VIEHAR
+  - VanillaExpanded.Ideo.IconsandSymbols
+  - VanillaExpanded.Ideo.RelicsAndArtifacts
+  - VanillaExpanded.VIESAS
+  - VanillaExpanded.VPlantsESucculents
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - VanillaExpanded.VTEXVariations
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VWEC
+  - VanillaExpanded.VWEHW
+  - VanillaExpanded.VWEFT
+  - VanillaExpanded.VWEG
+  - VanillaExpanded.VWEMS
+  - VanillaExpanded.VWENL
+  - VanillaExpanded.VWETB
+  - Mlie.VariousSpaceShipChunk
+  - Murmur.WallLight
+  - Crustypeanut.WCE2.Core
+  - co.uk.epicguru.whatsthatmod
+  - won.hair
+  - won2.hair
+  - AveryTheKitty.XenohumansAnthromorphs
+  - Albion.Xenohumans
+  - ILuvSilicon.XenohumansExpanded
+  - Orion.XevaRimhair
+  - Ayameduki.HARIdhale
+  - Toyama.HARIdhale
+  - Nals.FacialAnimation
+  - velc.HatsDisplaySelection
+  - Ayameduki.HARSilkiera
+  - Toyama.HARSilkiera
+  - Ayameduki.HARXenoorca
+  - Toyama.Xenoorca
+  - Ayameduki.HARNeclose
+  - supplyanddemand.rw
+  - Nals.FacialAnimationExperimentals
+  - neronix17.hairstyles
+  - neronix17.fr.compilation
+  - SR.ModRimworld.RaidExtension
+  - SR.ModRimworldTouchCat
+  - BJIS.LovelyHairStyle
+  - Mlie.SYRNaga
+  - Wemd.SmallSolarPanels
+  - rim.job.world
+  - Abraxas.RJW.RaceSupport
+  - rimworld.ekss.rjwex
+  - Krkr.RocketMan
+[BetterLoading] Injected into main UI.
+[BetterLoading] This save file contains 1 map(s).
+[BetterLoading] Game Load detected, re-showing for save-load screen.
+Could not load reference to Verse.ThingDef named ROM_StrangeMealSimple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealFine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealLavish 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeKibble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_Meat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_CthulhidMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DeepOneMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_MiGoMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ShoggothMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_StarVampireMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DarkYoungMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ChthonianMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DarkYoungSap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Chthonian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ChthonianLarva 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Cthulhid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DarkYoung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOneGreat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_MiGo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Shoggoth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothColossal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_StarVampire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealSimple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealFine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeKibble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_Meat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_CthulhidMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DeepOneMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_MiGoMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ShoggothMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_StarVampireMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DarkYoungMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ChthonianMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DarkYoungSap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Chthonian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ChthonianLarva 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Cthulhid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DarkYoung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOneGreat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_MiGo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Shoggoth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothColossal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_StarVampire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealSimple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeKibble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_Meat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_CthulhidMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DeepOneMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_MiGoMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ShoggothMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_StarVampireMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DarkYoungMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ChthonianMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DarkYoungSap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Chthonian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ChthonianLarva 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Cthulhid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DarkYoung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOneGreat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_MiGo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Shoggoth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothColossal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_StarVampire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeKibble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_Meat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_CthulhidMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DeepOneMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_MiGoMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ShoggothMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_StarVampireMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DarkYoungMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ChthonianMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DarkYoungSap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Chthonian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ChthonianLarva 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Cthulhid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DarkYoung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOneGreat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_MiGo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Shoggoth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothColossal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_StarVampire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeKibble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_Meat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_CthulhidMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DeepOneMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_MiGoMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ShoggothMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_StarVampireMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DarkYoungMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ChthonianMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DarkYoungSap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Chthonian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ChthonianLarva 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Cthulhid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DarkYoung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOneGreat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_MiGo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Shoggoth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothColossal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_StarVampire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeKibble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealSimple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealFine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealLavish 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DarkYoungSap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_Meat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_CthulhidMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DeepOneMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_MiGoMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ShoggothMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_StarVampireMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DarkYoungMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ChthonianMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Loading Small Components at 2:29:30 AM.
+[BetterLoading] Starting stage Initializing World Map.
+Could not load reference to RimWorld.FactionDef named ROM_StarSpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.FactionDef named ROM_Shoggoth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.FactionDef named ROM_MiGo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.FactionDef named ROM_DeepOne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.FactionDef named ROM_StarVampire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.FactionDef named ROM_Chthonian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.FactionDef named ROM_CosmicHorrors 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some factions were null after loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CH_Leather_Cthulhid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find class CosmicHorror.FactionTracker while resolving node li. Trying to use RimWorld.Planet.WorldComponent instead. Full node: <li Class="CosmicHorror.FactionTracker"><scoutedLocations><keys /><values /></scoutedLocations></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SaveableFromNode exception: System.ArgumentException: Can't load abstract class RimWorld.Planet.WorldComponent
+  at Verse.ScribeExtractor.SaveableFromNode[T] (System.Xml.XmlNode subNode, System.Object[] ctorArgs) [0x00129] in <b64badbf3c3d41018b3ca5d3e8c77771>:0 
+Subnode:
+<li Class="CosmicHorror.FactionTracker"><scoutedLocations><keys /><values /></scoutedLocations></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Expanded Incident - Settings loaded
+Space Worms - Settings loaded
+[BetterLoading] Finished stage Initializing World Map at 2:29:34 AM.
+[BetterLoading] Starting stage Loading Maps.
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+Could not load reference to Verse.ThingDef named CH_Leather_MiGo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CH_Leather_Chthonian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CH_Leather_Cthulhid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CH_Leather_DarkYoung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CH_Leather_DeepOne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CH_Leather_StarVampire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_MiGoCastingWeapon 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeKibble 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealSimple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealFine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_StrangeMealLavish 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DarkYoungSap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_Meat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_CthulhidMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DeepOneMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_MiGoMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ShoggothMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_StarVampireMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_DarkYoungMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_RawCHFood_ChthonianMeat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_ChthonianLarva 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DarkYoung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find class CosmicHorror.MapComponent_StarVampireTracker while resolving node li. Trying to use Verse.MapComponent instead. Full node: <li Class="CosmicHorror.MapComponent_StarVampireTracker"><starVampireSpawners /><starVampireLord>null</starVampireLord></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SaveableFromNode exception: System.ArgumentException: Can't load abstract class Verse.MapComponent
+  at Verse.ScribeExtractor.SaveableFromNode[T] (System.Xml.XmlNode subNode, System.Object[] ctorArgs) [0x00129] in <b64badbf3c3d41018b3ca5d3e8c77771>:0 
+Subnode:
+<li Class="CosmicHorror.MapComponent_StarVampireTracker"><starVampireSpawners /><starVampireLord>null</starVampireLord></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+Could not load reference to Verse.ThingDef named Corpse_ROM_Chthonian 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ChthonianLarva 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Cthulhid 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DarkYoung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_DeepOneGreat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_MiGo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_Shoggoth 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothColossal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_ShoggothTiny 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Corpse_ROM_StarVampire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ROM_DarkYoungSap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Loading Maps at 2:29:36 AM.
+[BetterLoading] Starting stage Finishing file load and cleaning up....
+[BetterLoading] Finished stage Finishing file load and cleaning up... at 2:29:36 AM.
+[BetterLoading] Starting stage Spawning all things.
+Could not resolve reference to object with loadID Lord_6 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Faction_42 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_HAR_Silkiera36916 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/madSurgeonsWithLastHarvestedTick/keys 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and System.Int32. label=madSurgeonsWithLastHarvestedTick 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Alien_Nyaron31305 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/wanderLustersWithLastMapExitedTick/keys 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and System.Int32. label=wanderLustersWithLastMapExitedTick 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VatgrownHumanRace43147 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/bigBoned 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human39658 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.DirectPawnRelation curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mech_Centipede29043 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mech_Lancer29045 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mech_Scyther29047 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mech_Pikeman29048 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mech_Termite29050 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_Aura29052 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_Daggersnout29053 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_Demolisher29054 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_Fireworm29056 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_Goliath29058 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_Phalanx29060 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_Siegebreaker29062 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_MP_Mech_Burster29064 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mech_Crawler29065 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mech_Skullywag29066 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mech_Flamebot29067 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mech_Mammoth29068 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mech_Assaulter29069 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_MoyoPressurePod_Race29071 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_MoyoHexaPod_Race29072 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_MoyoCryoPod_Race29073 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_AdvancedCentipede29075 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_AdvancedLancer29077 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_AdvancedKnight29079 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_AdvancedInquisitor29081 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_AdvancedScyther29083 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_AdvancedPikeman29084 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_AdvancedCarpenter29086 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_AncientMech_AncientCarpenter29087 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mechanoids_Autocleaner29088 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mechanoids_Autohauler29089 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mechanoids_Autominer29090 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mechanoids_Combat29091 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mechanoids_Riot29092 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mechanoids_Turret29093 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Centipede29094 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Lancer29096 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Knight29098 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Inquisitor29100 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Scyther29102 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Pikeman29103 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Carpenter29105 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mechanoids_CC29106 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mechanoids_Boxer29107 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Aura29108 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Daggersnout29109 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Fireworm29110 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Goliath29112 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Phalanx29114 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Siegebreaker29116 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Advanced_Aura29118 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Advanced_Daggersnout29119 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Advanced_Fireworm29120 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Advanced_Goliath29122 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Advanced_Phalanx29124 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFE_Mech_Advanced_Siegebreaker29126 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Duck29156 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_Agaripawn29157 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Duck29158 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_CatMaineCoon29159 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VFEV_WoolyCow29160 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_Shih-Tzu29161 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_Pug29162 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_O21_FR_SunElf29166 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_HAR_Nearmaere29170 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human29177 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_ScaleManXH29193 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey29711 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_Lion31284 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AnimaYak31285 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_Shih-Tzu31286 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Alpaca31287 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_CatSphynx31288 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_Lion31289 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_CatSphynx31290 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_WaywardMobileAssembler31291 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human31295 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_O21_FR_Orc31299 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human31302 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Alien_Nyaron31305 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Boomalope31654 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey32466 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey32467 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey32468 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Cow34165 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_SandSquid34166 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_Pug34167 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_SandSquid34168 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Husky34169 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Cow34170 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_ATK_Dragomorph34174 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Naga34176 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_O21_FR_MoonElf34181 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_LowGravWorlderRace34185 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey34529 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey34530 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey34531 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey34532 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey34533 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey34677 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey34678 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey35640 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey35641 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Monkey35642 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mincho_Minmoong36897 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Mincho_MinchoLatteIsHorse36898 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_Camel36899 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_Poodle36900 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_Camel36901 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_Shih-Tzu36902 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_CatPersian36903 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_O21_FR_SunElf36907 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_ATK_Felinemorph36911 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_HAR_Silkiera36916 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AnimaYak39647 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Husky39648 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AnimaYak39649 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_FrenchBulldog39650 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_DevilSheep39651 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_ReviaRaceAlien39655 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human39658 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_ScaleManXH39662 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_MG_Catgirl39666 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human39667 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_CatSphynx43123 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_CatNorwegianForest43124 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_Radyak43125 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_CatSomali43126 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_WelshTerrier43127 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AA_Radyak43128 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_AEXP_CatSiamese43129 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_O21_FR_Hobgoblin43133 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_O21_FR_Halfling43137 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_O21_FR_Kobold43143 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_VatgrownHumanRace43147 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=rjw.PawnData curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Thing_Human31295 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.DirectPawnRelation curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Pawn Bicep has relation "Spouse" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some auto-slaughter configs had null animals after loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Pawn Augustinusson has relation "Lover" with null pawn after loading. This means that we forgot to serialize pawns somewhere (e.g. pawns from passing trade ships). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 68898872 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 1272118043 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 13898994 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 1189044498 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -1821709437 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Spawning all things at 2:29:39 AM.
+[BetterLoading] Starting stage Setting up final game controllers.
+Cleaned up 91 deprecated records from What the Hack!?
+[RJW]  alpaca default bodypart not found: Torso -skip.
+[RJW]  boomalope default bodypart not found: Torso -skip.
+[RJW]  boomalope default bodypart not found: Torso -skip.
+[RJW]  boomalope default bodypart not found: Torso -skip.
+[RJW]  muffalo default bodypart not found: Torso -skip.
+[RJW]  muffalo default bodypart not found: Torso -skip.
+[RJW]  alpaca default bodypart not found: Torso -skip.
+[RJW]  boomalope default bodypart not found: Torso -skip.
+[RJW]  alpaca default bodypart not found: Torso -skip.
+SOYUZ: Preset loaded!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 57813.
+Total: 807.908700 ms (FindLiveObjects: 2.545400 ms CreateObjectMapping: 2.502800 ms MarkObjects: 802.667600 ms  DeleteObjects: 0.192600 ms)
+
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn centipede gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn lancer gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn scyther gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn pikeman gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn termite gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn aura gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn daggersnout gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn demolisher gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn fireworm gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn goliath gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn phalanx gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn siegebreaker gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn burster gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn crawler gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn skullywag gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn flamebot gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn mammoth gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn assaulter gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn pressurepod gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn hexapod gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn cryopod gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn advanced centipede gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn advanced lancer gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn advanced knight gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn advanced inquisitor gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn advanced scyther gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn advanced pikeman gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn advanced carpenter gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn carpenter gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn autocleaner gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn autohauler gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn autominer gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn combat mechanoid gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn riot mechanoid gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn mobile turret gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn centipede gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn lancer gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn knight gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn inquisitor gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn scyther gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn pikeman gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn carpenter gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn crowd control mechanoid gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn Boxer mechanoid gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn aura gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn daggersnout gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn fireworm gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn goliath gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn phalanx gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn siegebreaker gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn dominion gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn eviscerator gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn incinerator gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn colossus gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn hoplite gender: None
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn siegemaster gender: None
+[BetterLoading] Long event has finished, hiding loading screen.
+Arachnophobia :: Spider Biome Settings Adjusted :: Current Factor: 1
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn flamingo phoenix gender: None
+[RJW] sexualize_pawn() - sexualizing single gender pawn red goo  race: Slime_Tentacles_AA
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn flamingo phoenix gender: None
+Error finding style item for Sylyra 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Renamak 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to get pawn head at path HAR_NM/Heads/H_HAR_NM_8 that was not found. Defaulting...
+Anna started 10 jobs in 10 ticks. List: none curDriver=JobDriver_WaitMaintainPosture (toilIndex=0) curJob=(Wait_MaintainPosture (Job_343797)) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+ROCKETMAN: Position verfication started!
+Error finding style item for Nose 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Andi 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn Vunnarfum gender: Female
+Error finding style item for Ignacio 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Finn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Renly 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Eita 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Timur 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Hubbe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Cristobal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Harvey 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Kesin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Giardina 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Leonard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Cody 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Angus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Cato 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Odile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Trouman 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Theophrastos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Hannibal 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Dweeb 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Driver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Takumi 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Herzog 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Yuuta 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Saenz 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Hans 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Pyotr 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Mack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Brodie 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Gil 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Lucero 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Hernan 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Jacquemain 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Hector 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Greg 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Nails 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Syr 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Quail 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Roni 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Lumpy 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for York 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Xavier 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Nate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Paul 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Brandon 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Harrington 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Hart 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Pecs 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Sean 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Parker 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Ibarra 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Tom 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Albert 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Darcy 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RJW]  SexualizeGenderlessPawn() - unable to sexualize genderless pawn Grinissa gender: Male
+Error finding style item for Bami 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Erin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Giordano 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Sir 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Louis 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Sora 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Steff 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Abantoxchoamb 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Milo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Vilen 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Matt 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Joe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for McBride 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Bo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Beleg 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Huckles 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Steko 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Le 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Smelly 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for James 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error finding style item for Crazan 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
